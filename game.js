@@ -101,7 +101,7 @@ function playAgain(){
 	inquirer.prompt([
 				{
 					type: "confirm",
-					message: "Want to try again and earn back your dignity?",
+					message: "Want to try again?",
 					name: "confirm",
 					default: true,	
 				}
