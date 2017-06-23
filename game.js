@@ -252,7 +252,7 @@ function askQuestions(){
 
 		if((correctCount / inqQuestion.length) >= .75){
 			
-			console.log("Congratulations!! You got "+correctCount+" right out of "+inqQuestion.length+". You're Mom would be proud!");
+			console.log("Congratulations!! You got "+correctCount+" right out of "+inqQuestion.length+". Your Mom would be proud!");
 		
 		}else{
 
