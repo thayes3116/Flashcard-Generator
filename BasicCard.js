@@ -20,7 +20,7 @@ function BasicCard(front,back){
 }
 //create cards using constructor
 var george = BasicCard("Who was the president (the first one from 1789-1797) who lived in Mount Vernon?", "George Washington"),	
-	andrew = BasicCard("What president succeeded Abraham Lincoln when he was assassinated?", "Andrew Jackson"),
+	andrew = BasicCard("What president succeeded Abraham Lincoln when he was assassinated?", "Andrew Johnson"),
 	brown = BasicCard("Whose raid on Harper's Ferry led to further tensions before the war?", "John Brown"),
 	phila = BasicCard(" In what city was the Declaration of Independence signed?", "Philadelphia");
 
