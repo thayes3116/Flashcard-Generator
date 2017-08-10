@@ -22,7 +22,7 @@ Play with Created Basic Cards
 
 User can do the same with cloze cards
 
-![](/read_me_images/playclozeprepared.png)
+![](/read_me_images/playcreatecloze.png)
 
 ##Play with Prepared Cards
 
