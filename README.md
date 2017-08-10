@@ -6,4 +6,6 @@ This application is build entirely with node.js.  Additionally, I used inquirer 
 
 ##Create Card
 
-If the user chooses to create their own cards, they then can choose  
+If the user chooses to create their own cards, they then can choose to make Cloze cards or Basic cards.
+
+
