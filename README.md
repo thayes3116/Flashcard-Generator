@@ -19,7 +19,10 @@ Create Basic cards
 Play with Created Basic Cards
 
 ![](/read_me_images/playcreatedbasic.png)
+
 User can do the same with cloze cards
+
+![](/read_me_images/playclozeprepared.png)
 
 ##Play with Prepared Cards
 
