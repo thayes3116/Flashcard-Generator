@@ -20,13 +20,13 @@ Play with Created Basic Cards
 
 ![](/read_me_images/playcreatedbasic.png)
 
-User can do the same with cloze cards
+User can do the same with Cloze cards
 
 ![](/read_me_images/playcreatecloze.png)
 
 ##Play with Prepared Cards
 
-If the user choose to play with teh prepared cards, they can play with Basic or Cloze.
+If the user choose to play with the prepared cards, they can play with Basic or Cloze.
 
 Basic
 
@@ -34,5 +34,5 @@ Basic
 
 Cloze
 
-![](/read_me_images/prepared cloze.png)
+![](/read_me_images/preparedcloze.png)
 
