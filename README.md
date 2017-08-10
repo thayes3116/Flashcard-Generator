@@ -3,7 +3,7 @@ This application is a node.js based study aide.  The user can create their own f
 
 ![](/read_me_images/createprepared.png)
 Both Cloze cards and Basic cards are available.
-
+![](/read_me_images/createbasiccloze.png)
 This application is build entirely with node.js.  Additionally, I used inquirer npm package to prompt the user and move through application.
 
 
